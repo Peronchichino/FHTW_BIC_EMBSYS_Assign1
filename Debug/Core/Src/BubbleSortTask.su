@@ -1,0 +1,3 @@
+../Core/Src/BubbleSortTask.c:27:14:CreatedBubbleSortTask	8	static
+../Core/Src/BubbleSortTask.c:31:16:GetBubbleSortTaskAttributes	16	static
+../Core/Src/BubbleSortTask.c:42:6:BubbleSortTask	80	static

@@ -1,0 +1,3 @@
+../Core/Src/StoreInArrayTask.c:27:14:CreatedStoreInArrayTask	8	static
+../Core/Src/StoreInArrayTask.c:31:16:GetStoreInArrayTaskAttributes	16	static
+../Core/Src/StoreInArrayTask.c:42:6:StoreInArrayTask	424	static

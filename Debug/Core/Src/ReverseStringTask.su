@@ -1,0 +1,3 @@
+../Core/Src/ReverseStringTask.c:28:14:CreatedReverseStringTask	8	static
+../Core/Src/ReverseStringTask.c:32:16:GetReverseStringTaskAttributes	16	static
+../Core/Src/ReverseStringTask.c:43:6:ReverseStringTask	32	static
